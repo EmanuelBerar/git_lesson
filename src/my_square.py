@@ -1,9 +1,10 @@
-def my_square(x):
+def my_square(y):
     """takes a value and returns square value
     
-    uses ** operator
+    uses * operator
     """
     return(y ** 2)
 
-print(my_squiare(42))
+
+print(my_square(42))
 
